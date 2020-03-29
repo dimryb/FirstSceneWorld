@@ -74,9 +74,11 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 fswProject/Saved/Logs/
-
 fswProject/Saved/Backup/
+fswProject/Saved/Autosaves/
+fswProject/Saved/Config/CrashReportClient/
 
 fswProject/Content/KiteDemo/
+fswProject/Content/M5VFXVOL2/
 
-fswProject/Saved/Autosaves/
+
